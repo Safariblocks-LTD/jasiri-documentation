@@ -28,7 +28,7 @@
 
 * [Legal](extras/legal/README.md)
   * [Protocol Disclaimer](extras/legal/protocol-disclaimer.md)
-  * [Terms & Conditions of Use](extras/legal/terms-and-conditions-of-use.md)
   * [Privacy Policy](extras/legal/privacy-policy.md)
+  * [Terms & Conditions of Service](extras/legal/terms-and-conditions-of-service.md)
 * [Press](extras/press.md)
 * [Releases](extras/releases.md)
