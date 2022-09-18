@@ -28,7 +28,7 @@ As a processor of Personal Data:
 
 **Information Collection and Use**&#x20;
 
-We collect several different types of information for various purposes to provide and improve the Website, Marketplace, and our Applications to you. While using the Marketplace, Applications, and Website, we may ask you to provide us with certain, personally identifiable information that can be used to contact or identify you known as Personal Data. Personally, identifiable information may include, but is not limited to: email address; names (first name and last name); phone number; postal address; and Cookies and Usage Data
+We collect several different types of information for various purposes to provide and improve the Website, Marketplace, and our Applications to you. While using the Marketplace, Applications, and Website, we may ask you to provide us with certain, personally identifiable information that can be used to contact or identify you known as Personal Data(We use this personal data to assign titles for your digital assets). Personally identifiable information may include, but is not limited to: email address; names (first name and last name); phone number; postal address; and Cookies and Usage Data
 
 Through the use of the Marketplace and Website, the User consents to the sharing of data with the Concerned Parties such as other Users of the Marketplace and Website as well as the authorized representatives of Safariblocks.
 
