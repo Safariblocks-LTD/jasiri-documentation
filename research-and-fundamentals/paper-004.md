@@ -1,7 +1,7 @@
 ---
-description: Coming Soon.
+description: To be publicly published at a future date
 ---
 
 # Paper 004
 
-Kindly check this page later. Thank you.
+You can make inquiry by sending an email to info@safariblocks.com .

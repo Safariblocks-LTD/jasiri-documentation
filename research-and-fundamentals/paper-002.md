@@ -1,5 +1,7 @@
+---
+description: To be publicly published at a future date.
+---
+
 # Paper 002
 
-{% hint style="info" %}
-**Good to know:** This paper covers how the JASIRI protocol unlocks dead capital.
-{% endhint %}
+You can make inquiry by sending an email to info@safariblocks.com .
