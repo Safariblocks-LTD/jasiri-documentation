@@ -32,3 +32,4 @@
   * [Terms & Conditions of Service](extras/legal/terms-and-conditions-of-service.md)
 * [Press](extras/press.md)
 * [Releases](extras/releases.md)
+* [Company Info](extras/company-info.md)
