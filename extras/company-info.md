@@ -6,8 +6,22 @@ description: company information
 
 Safariblocks Ltd.,&#x20;
 
-105 Westlands, Nairobi, Republic of Kenya,
+**ADDRESS 1:**
 
-Company number PVT-5JUEG6GY.
+166 Geary Str STE 1500,
+
+San Francisco, CA 94108
+
+United States
+
+
+
+**ADDRESS 2:**
+
+105 - 00800, Mpaka Road,
+
+Westlands, Nairobi City
+
+Republic of Kenya
 
 ##
