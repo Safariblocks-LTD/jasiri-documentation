@@ -4,11 +4,11 @@ description: privacy policy - Safariblocks Ltd.
 
 # Privacy Policy
 
-****
+
 
 **INTRODUCTION**&#x20;
 
-Safariblocks("Safariblocks Ltd") is a limited liability company, located in the Republic of Kenya("KENYA"), providing JASIRI Protocol - an Asset Tokenization platform that digitizes movable Assets (into Non Fungible Token (NFTs) of any kind and attaches to it a component of financial value.&#x20;
+Safariblocks("Safariblocks Ltd") is a private limited company, located in the Republic of Kenya("KENYA"), providing JASIRI Protocol - an Asset Tokenization platform that digitizes movable Assets (into Non Fungible Token (NFTs) of any kind and attaches to it a component of financial value.&#x20;
 
 The platform is made up of 3 components: Mobile Blockchain Digital Wallet, Web Browser Extension(with an NFT Marketplace), A Digital Token. This is available on our website https://jasiriprotocol.org .
 
@@ -17,7 +17,7 @@ This document specifically informs you of our policies regarding the collection,
 As a processor of Personal Data:
 
 1. **You may contact us regarding your personal data, through our email address** [**info@safariblocks.com**](mailto:info@safariblocks.com)**.**
-2. **You may access, review, edit, correct, remove and delete your personal data at any time by contacting our support team. You may be requested by our team to provide the respective confirmation documents in case of your personal data information change. Where required by law, we will facilitate your exercise of your rights. You have the right to:** Check whether we hold any of your personal data; Access your personal data held by us; Request us to correct any inaccurate personal data held by us; and Ascertain our policies and practices established (from time to time) in relation to personal data and the types of personal data held by us. If you want to access and/or correct your personal data which you have given us via our related channels. ****&#x20;
+2. **You may access, review, edit, correct, remove and delete your personal data at any time by contacting our support team. You may be requested by our team to provide the respective confirmation documents in case of your personal data information change. Where required by law, we will facilitate your exercise of your rights. You have the right to:** Check whether we hold any of your personal data; Access your personal data held by us; Request us to correct any inaccurate personal data held by us; and Ascertain our policies and practices established (from time to time) in relation to personal data and the types of personal data held by us. If you want to access and/or correct your personal data which you have given us via our related channels.&#x20;
 3. **Personal data are processed in order to provide the applications to the user and perform the contract and its settlement. Personal Data will be processed for the following purposes:** establishment, management and termination of the contractual relationship with Safariblocks; fulfillment of accounting and fiscal obligations; fulfillment of legal obligations (for example: anti-terrorism checks); anti-money laundering checks; fiscal and accounting audits; management of disputes; provision, support, updating and information about the products sold and the applications offered and the available features; and marketing purposes where the user has given express consent to do so.
 4. **We do not intend to transfer Personal data to a third party (unless expressly stated) or other organization.**
 5. **Personal data will be processed during the implementation of a goal for which they have been collected, until the expiry of claims associated with the user or in the case when the processing of data is necessary in order to seek claims or defend against claims, which is a legally justified interest of we, as well until the newsletter will be available or until the consent will be withdrawn.**
@@ -40,13 +40,13 @@ We may also collect information on how the Marketplace and Website is accessed a
 
 **You can instruct your browser to refuse all Cookies or to indicate when a cookie is being sent. However, if you do not accept Cookies, you may not be able to use some portions of the Marketplace and Website.**
 
-We use Cookies to operate and enhance the provisions of the Marketplace, and WE DO NOT Share Cookies. We use the collected data for various purposes, to: **** provide and maintain the Marketplace; notify you about changes to the Marketplace and Website; allow you to participate in interactive features of the Marketplace when you choose to do so; provide customer care and support; provide analysis or valuable information so that we can improve the Marketplace; monitor the usage of the Marketplace; and detect, prevent, and address technical issues.
+We use Cookies to operate and enhance the provisions of the Marketplace, and WE DO NOT Share Cookies. We use the collected data for various purposes, to: provide and maintain the Marketplace; notify you about changes to the Marketplace and Website; allow you to participate in interactive features of the Marketplace when you choose to do so; provide customer care and support; provide analysis or valuable information so that we can improve the Marketplace; monitor the usage of the Marketplace; and detect, prevent, and address technical issues.
 
 
 
 **Transfer of Data**
 
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or **** other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
 If you are located outside KENYA and choose to provide information to us, please note that we transfer the data, including Personal Data, to KENYA and process it there.
 
@@ -60,13 +60,13 @@ For the avoidance of doubt, we cannot guarantee that communications between User
 
 **User License**
 
-Permission is granted to access Site Content for the usage as designated in clause 3.1 and 3.2. This is the grant of a license, not a transfer of title, and under this license, you may not (in addition to the items contained in clause 12 of the Terms and Conditions): **** modify or copy the materials; attempt to decompile or reverse engineer any software contained in the Website and Marketplace; remove or infringe on any copyright or other proprietary notations from the materials; or transfer the materials to another person or "mirror" the materials on any other server or website.
+Permission is granted to access Site Content for the usage as designated in clause 3.1 and 3.2. This is the grant of a license, not a transfer of title, and under this license, you may not (in addition to the items contained in clause 12 of the Terms and Conditions): modify or copy the materials; attempt to decompile or reverse engineer any software contained in the Website and Marketplace; remove or infringe on any copyright or other proprietary notations from the materials; or transfer the materials to another person or "mirror" the materials on any other server or website.
 
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by We at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession, whether in electronic or printed format.
 
 **At our sole discretion, we will proceed to enforce legal action against Users who continue to engage in the behaviour listed in clause 3.1.1 to 3.1.4.**
 
-****
+
 
 **Disclaimer**
 
