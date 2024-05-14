@@ -2,7 +2,7 @@
 
 INTRODUCTION
 
-These terms and conditions (Terms) are entered into between Safariblocks Limited a Kenyan based company (we, us or our) and you (the User), together the Parties and each a Party.&#x20;
+These terms and conditions (Terms) are entered into between Safariblocks Limited, a private limited company (we, us or our), and you (the User), together the Parties and each a Party.&#x20;
 
 These Terms supplement and incorporate our privacy policy and user knowledge documents posted on the NFT marketplace, Website, and Digital Wallet.&#x20;
 
@@ -99,4 +99,3 @@ Relationship of Parties: These Terms are not intended to create a partnership, j
 
 
 
-****
