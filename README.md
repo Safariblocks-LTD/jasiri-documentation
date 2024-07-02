@@ -1,10 +1,21 @@
 ---
-description: This is the official open user manual of the JASIRI protocol.
+description: >-
+  This is the official open user manual of the Jasiri App, and is meant to be
+  the one-stop guide for your use of the Jasiri App.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Welcome
-
-
+# 👋 Welcome
 
 ### Guides: Jump right in
 
@@ -14,12 +25,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [first-steps.md](guides/first-steps.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/tokenize-your-1st-asset.md" %}
-[tokenize-your-1st-asset.md](guides/tokenize-your-1st-asset.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="guides/unlock-your-capital.md" %}
-[unlock-your-capital.md](guides/unlock-your-capital.md)
+{% content-ref url="guides/unlock-bankable-digital-assets.md" %}
+[unlock-bankable-digital-assets.md](guides/unlock-bankable-digital-assets.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/ecosystem-participation.md" %}

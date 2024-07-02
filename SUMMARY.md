@@ -1,12 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [👋 Welcome](README.md)
 
 ## Guides
 
 * [First Steps](guides/first-steps.md)
-* [Tokenize Your 1st Asset](guides/tokenize-your-1st-asset.md)
-* [Unlock Your Capital](guides/unlock-your-capital.md)
+* [Unlock Bankable Digital Assets](guides/unlock-bankable-digital-assets.md)
 * [Ecosystem Participation](guides/ecosystem-participation.md)
 
 ## Research & Fundamentals
