@@ -1,6 +1,12 @@
 # Unlock Bankable Digital Assets
 
-Once you click 'Tokenize' on your recently purchased _smartphone, tablet, laptop,_ or _smartwatch_ from **one of our supported global brands** and on Amazon.com, Alibaba.com, or Aliexpress.com... you earn up to **70% of the US Dollar value** of your recently purchased tech gadgets as bankable and exchangeable digital assets, denominated by the **UNLOCK digital asset(Algorand Standard Asset ID: 1256765304).**
+Once you click "Tokenize" on any of your recently purchased _smartphone, smartwatch, tablet_ or _laptop_, the extension gets the **provenance** of your purchase, obtaining:
+
+* The asset's retail market price
+* The price you bought the asset for
+* Asset description information
+
+You will receive up to **70% of the US Dollar value of your now tokenized gadgets to your personal capital account, assuming you used the Jasiri Mobile Vault.**
 
 **We use UNLOCK to make liquidity access for your assets easier. It represents the 'shares'/'stock' in your recently purchased tech gadgets.**
 
