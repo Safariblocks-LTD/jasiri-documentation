@@ -33,8 +33,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [unlock-bankable-digital-assets.md](guides/unlock-bankable-digital-assets.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/ecosystem-participation.md" %}
-[ecosystem-participation.md](guides/ecosystem-participation.md)
+{% content-ref url="guides/buy-legal-property-titles.md" %}
+[buy-legal-property-titles.md](guides/buy-legal-property-titles.md)
 {% endcontent-ref %}
 
 ### JASIRI Papers: Understand The Deep Technical Foundations
