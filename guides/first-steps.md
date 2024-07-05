@@ -1,10 +1,12 @@
 # First Steps
 
-💥Jasiri App is the **World’s First Asset Tokenization Platform** **for Your Valuable Consumer Electronic Purchases.**
 
-When you purchase smartphones, laptops, tablets, or smartwatches from leading e-commerce stores like **Amazon.com** , **Alibaba.com** , or **Aliexpress.com** , you use the **Jasiri App** to tokenize them on a public blockchain database , and unlock **bankable digital assets** and **legal property titles**.
 
-An explanation to a 🍼 4-year old would be 😄:
+<figure><img src="../.gitbook/assets/Twitter Featured Page.png" alt=""><figcaption><p>Jasiri - the World's First Asset Tokenization Platform for Your Consumer Electronic Purchases</p></figcaption></figure>
+
+When you purchase smartphones, laptops, tablets, or smartwatches from leading e-commerce stores like **Amazon.com** , **Alibaba.com** , or **Aliexpress.com** , you use the **Jasiri App** to tokenize them on a public blockchain database , and unlock **bankable digital assets** and **Web3** **legal property titles**.
+
+An explanation to a 🍼 4-year old would go like this😄:
 
 _When you buy a new toy, like a phone_ 📴 _or a computer_💻_, from a special store, Jasiri makes sure that toy can do something special!_
 
@@ -14,7 +16,7 @@ To start:
 
 1. Add the Jasiri E-commerce Browser Add-on(also called 'Extension') to your Google Chrome Browser. Find the download link here: [https://bit.ly/jasiri-browser-extension](https://bit.ly/jasiri-browser-extension)&#x20;
 2. Also, make sure you download the Jasiri Smartphone Vault/Wallet for Android here: [https://bit.ly/jasiri-vault](https://bit.ly/jasiri-vault) . Currently there is no iOS version, but we hope you will let us know if you need one.
-3. Create a Self-custody Capital 💲 Account on the Jasiri 📱Smartphone Vault/Wallet.&#x20;
+3. Create a \***Self-custody Capital 💲 Account** on the Jasiri 📱Smartphone Vault/Wallet.&#x20;
 4. Go to 'Connect With dAPP' in the Smartphone Wallet, and click the 'Walletconnect' Button under 'Connect Your Wallet' text on the E-commerce Add-on. Scan the QR Code Displayed on the Extension using your Smartphone Wallet to link your Capital Account to the Extension.
 5. Once successfully connected, you can proceed with the extension and click 'Show Tokenizable Orders' and afterwards click 'Tokenize' on any order, to tokenize it
 
