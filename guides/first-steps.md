@@ -1,9 +1,5 @@
 # First Steps
 
-
-
-<figure><img src="../.gitbook/assets/Twitter Featured Page.png" alt=""><figcaption><p>Jasiri - the World's First Asset Tokenization Platform for Your Consumer Electronic Purchases</p></figcaption></figure>
-
 When you purchase smartphones, laptops, tablets, or smartwatches from leading e-commerce stores like **Amazon.com** , **Alibaba.com** , or **Aliexpress.com** , you use the **Jasiri App** to tokenize them on a public blockchain database , and unlock **bankable digital assets** and **Web3** **legal property titles**.
 
 An explanation to a 🍼 4-year old would go like this😄:
@@ -18,6 +14,11 @@ To start:
 2. Also, make sure you download the Jasiri Smartphone Vault/Wallet for Android here: [https://bit.ly/jasiri-vault](https://bit.ly/jasiri-vault) . Currently there is no iOS version, but we hope you will let us know if you need one.
 3. Create a \***Self-custody Capital 💲 Account** on the Jasiri 📱Smartphone Vault/Wallet.&#x20;
 4. Go to 'Connect With dAPP' in the Smartphone Wallet, and click the 'Walletconnect' Button under 'Connect Your Wallet' text on the E-commerce Add-on. Scan the QR Code Displayed on the Extension using your Smartphone Wallet to link your Capital Account to the Extension.
+
+
+
+<figure><img src="../.gitbook/assets/Connect Using Walletconnect.gif" alt=""><figcaption><p>Connecting Your Jasiri Capital Account To The Jasiri E-commerce Extension</p></figcaption></figure>
+
 5. Once successfully connected, you can proceed with the extension and click 'Show Tokenizable Orders' and afterwards click 'Tokenize' on any order, to tokenize it
 
 
