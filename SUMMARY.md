@@ -6,7 +6,7 @@
 
 * [First Steps](guides/first-steps.md)
 * [Unlock Bankable Digital Assets](guides/unlock-bankable-digital-assets.md)
-* [Buy Legal Property Titles](guides/ecosystem-participation.md)
+* [Buy Web3 Legal Property Titles](guides/buy-web3-legal-property-titles.md)
 
 ## Research & Fundamentals
 
