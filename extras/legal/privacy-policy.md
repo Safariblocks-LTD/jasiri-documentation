@@ -8,7 +8,7 @@ description: privacy policy - Safariblocks Ltd.
 
 **INTRODUCTION**&#x20;
 
-Safariblocks("Safariblocks Ltd") is a private limited company, located in the Republic of Kenya("KENYA"), providing JASIRI Protocol - an Asset Tokenization platform that digitizes movable Assets (into Non Fungible Token (NFTs) of any kind and attaches to it a component of financial value.&#x20;
+Safariblocks("Safariblocks Ltd") is a private limited company, located in the Republic of Kenya("KENYA"), providing Jasiri - an Asset Tokenization platform that digitizes movable Assets (into Non Fungible Token (NFTs) of any kind and attaches to it a component of financial value.&#x20;
 
 The platform is made up of 3 components: Mobile Blockchain Digital Wallet, Web Browser Extension(with an NFT Marketplace), A Digital Token. This is available on our website https://jasiriprotocol.org .
 
@@ -76,7 +76,7 @@ Though we are committed to offering a secure environment and protecting party’
 
 To the best of our ability and in compliance with the Data Protection Act of Kenya, 2019, all personal identifying data shall be stored in Kenya. The materials appearing on the Website or Marketplace could include technical, typographical, or photographic errors. We do not warrant that any of the materials on its Website are accurate, complete, or current. We may make changes to the materials contained on its Website at any time without notice. However, we do not make any commitment to update the materials.&#x20;
 
-With reference and in addition to the Safariblocks **'**Terms and Conditions': The digital fungible token offered, known as the Jasiri digital Token (JSR), is not a currency nor a security and is presented as a digital token, built as an Algorand ASA("Algorand Standard Asset"), on the Algorand Blockchain(here: [https://www.algorand.com/](https://www.algorand.com/)) The price of such a token is not in the control of Safariblocks, which is not a financial or investment institution. NFTs("Non-Fungible Tokens") issued on the platform, equally as Algorand ASAs("Algorand Standard Assets") through the JASIRI NFT Marketplace, are traceable to digitized movable assets, and represent rights to the same.&#x20;
+With reference and in addition to the Safariblocks **'**&#x54;erms and Conditions': The digital fungible token offered, known as the Jasiri digital Token (JSR), is not a currency nor a security and is presented as a digital token, built as an Algorand ASA("Algorand Standard Asset"), on the Algorand Blockchain(here: [https://www.algorand.com/](https://www.algorand.com/)) The price of such a token is not in the control of Safariblocks, which is not a financial or investment institution. NFTs("Non-Fungible Tokens") issued on the platform, equally as Algorand ASAs("Algorand Standard Assets") through the JASIRI NFT Marketplace, are traceable to digitized movable assets, and represent rights to the same.&#x20;
 
 Following the above, Safariblocks does not solicit any funds or offer any investment or financial advice.&#x20;
 
